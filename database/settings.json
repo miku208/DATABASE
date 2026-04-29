@@ -1,15 +1,7 @@
 {
-  "ptero_api_key": "ptla_xxxxx",
-  "ptero_client_api_key": "ptlc_xxxxx",
-  "ptero_url": "http://143.198.19.92:80",
+  "ptero_api_key": "",
+  "ptero_client_api_key": "",
+  "ptero_url": "",
   "used_ram": 0,
-  "max_ram": 100000,
-  "nest_id": 5,
-  "egg_id": 15,
-  "location_id": 1,
-  "default_swap": 0,
-  "default_io": 500,
-  "default_databases": 1,
-  "default_allocations": 1,
-  "default_backups": 1
+  "max_ram": 100000
 }

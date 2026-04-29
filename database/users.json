@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "email": "admin@panel.com",
+    "password": "admin123", // bcrypt hash
+    "role": "admin",
+    "status": "active",
+    "daily_limit": 999999,
+    "used_limit": 0,
+    "max_servers": 999999,
+    "is_premium": true
+  }
+]
